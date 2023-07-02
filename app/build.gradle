@@ -67,7 +67,7 @@ dependencies {
     debugImplementation 'androidx.compose.ui:ui-test-manifest'
 
     //Compose Navigation
-    implementation "androidx.navigation:navigation-compose:2.6.0"
+    implementation "androidx.navigation:navigation-compose:2.4.0-alpha06"
 
     //Room Components
     implementation "androidx.room:room-runtime:2.5.2"
