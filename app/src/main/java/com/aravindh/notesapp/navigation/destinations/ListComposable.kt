@@ -4,7 +4,7 @@ import androidx.navigation.NavGraphBuilder
 import androidx.navigation.NavType
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.navArgument
-import com.aravindh.notesapp.ui.screens.ListScreen
+import com.aravindh.notesapp.ui.screens.list.ListScreen
 import com.aravindh.notesapp.util.Constants.LIST_ARGUMENT_KEY
 import com.aravindh.notesapp.util.Constants.LIST_SCREEN
 
